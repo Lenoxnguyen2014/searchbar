@@ -1,0 +1,5 @@
+.imageCard :hover 
+{
+	color: #ed1212;
+	cursor: pointer;
+}
